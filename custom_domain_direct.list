@@ -1,5 +1,5 @@
 # 直连补充列表
-speech.microsoft.com
+DOMAIN,speech.microsoft.com
 # 域名后缀匹配
 DOMAIN-SUFFIX,140422.xyz
 
